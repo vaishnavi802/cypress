@@ -1,6 +1,6 @@
 module.exports = {
     e2e: {
-        projectId: "yz46f5",
+        projectId: "naj6fe",
         // set supportFile to false to disable code coverage
         supportFile: false
     }        
